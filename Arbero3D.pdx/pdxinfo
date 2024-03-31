@@ -1,0 +1,7 @@
+name=Arbero3D
+author=Pablo Arjonilla
+description=A bare-bones 3D engine for the playdate
+bundleID=es.pmac.arbero3D
+imagePath=
+pdxversion=20400
+buildtime=765209500

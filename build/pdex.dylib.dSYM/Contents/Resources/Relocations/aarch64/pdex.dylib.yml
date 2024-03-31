@@ -1,0 +1,24 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     'build/pdex.dylib'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _drawPixel, symObjAddr: 0x0, symBinAddr: 0x3B10, symSize: 0x7C }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _mtx17c, symObjAddr: 0x360, symBinAddr: 0x4000, symSize: 0x0 }
+  - { offsetInCU: 0x74, offset: 0x74, size: 0x8, addend: 0x0, symName: _mtx9c, symObjAddr: 0x3A0, symBinAddr: 0x4040, symSize: 0x0 }
+  - { offsetInCU: 0x90, offset: 0x90, size: 0x8, addend: 0x0, symName: _pd, symBinAddr: 0x4088, symSize: 0x0 }
+  - { offsetInCU: 0x486D, offset: 0x486D, size: 0x8, addend: 0x0, symName: _screenBuffer, symBinAddr: 0x4090, symSize: 0x0 }
+  - { offsetInCU: 0x4882, offset: 0x4882, size: 0x8, addend: 0x0, symName: _screenBufferData, symBinAddr: 0x4098, symSize: 0x0 }
+  - { offsetInCU: 0x4897, offset: 0x4897, size: 0x8, addend: 0x0, symName: _lastFrame, symBinAddr: 0x4084, symSize: 0x0 }
+  - { offsetInCU: 0x48AC, offset: 0x48AC, size: 0x8, addend: 0x0, symName: _deltaTimeMS, symBinAddr: 0x4080, symSize: 0x0 }
+  - { offsetInCU: 0x48FA, offset: 0x48FA, size: 0x8, addend: 0x0, symName: _drawPixel, symObjAddr: 0x0, symBinAddr: 0x3B10, symSize: 0x7C }
+  - { offsetInCU: 0x4948, offset: 0x4948, size: 0x8, addend: 0x0, symName: _eventHandler, symObjAddr: 0x7C, symBinAddr: 0x3B8C, symSize: 0x210 }
+  - { offsetInCU: 0x49EE, offset: 0x49EE, size: 0x8, addend: 0x0, symName: _update, symObjAddr: 0x28C, symBinAddr: 0x3D9C, symSize: 0xD4 }
+  - { offsetInCU: 0x26, offset: 0x4A47, size: 0x8, addend: 0x0, symName: _engineStart, symObjAddr: 0x0, symBinAddr: 0x3E70, symSize: 0x18 }
+  - { offsetInCU: 0x33, offset: 0x4A54, size: 0x8, addend: 0x0, symName: _engineStart, symObjAddr: 0x0, symBinAddr: 0x3E70, symSize: 0x18 }
+  - { offsetInCU: 0x26, offset: 0x4AA9, size: 0x8, addend: 0x0, symName: _eventHandlerShim, symObjAddr: 0x0, symBinAddr: 0x3E88, symSize: 0x60 }
+  - { offsetInCU: 0x3F, offset: 0x4AC2, size: 0x8, addend: 0x0, symName: _pdrealloc, symObjAddr: 0x8E80, symBinAddr: 0x40A0, symSize: 0x0 }
+  - { offsetInCU: 0x3BE, offset: 0x4E41, size: 0x8, addend: 0x0, symName: _eventHandlerShim, symObjAddr: 0x0, symBinAddr: 0x3E88, symSize: 0x60 }
+  - { offsetInCU: 0x402, offset: 0x4E85, size: 0x8, addend: 0x0, symName: _malloc, symObjAddr: 0x60, symBinAddr: 0x3EE8, symSize: 0x30 }
+  - { offsetInCU: 0x42A, offset: 0x4EAD, size: 0x8, addend: 0x0, symName: _realloc, symObjAddr: 0x90, symBinAddr: 0x3F18, symSize: 0x34 }
+  - { offsetInCU: 0x460, offset: 0x4EE3, size: 0x8, addend: 0x0, symName: _free, symObjAddr: 0xC4, symBinAddr: 0x3F4C, symSize: 0x48 }
+...

@@ -1,0 +1,406 @@
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .group         0x0000000000000000        0xc build/main.o
+ .text          0x0000000000000000        0x0 build/main.o
+ .data          0x0000000000000000        0x0 build/main.o
+ .bss           0x0000000000000000        0x0 build/main.o
+ .text.drawPixel
+                0x0000000000000000       0x44 build/main.o
+ .data.mtx17c   0x0000000000000000       0x40 build/main.o
+ .data.mtx9c    0x0000000000000000       0x40 build/main.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .group         0x0000000000000000        0xc build/arbero/engine.o
+ .text          0x0000000000000000        0x0 build/arbero/engine.o
+ .data          0x0000000000000000        0x0 build/arbero/engine.o
+ .bss           0x0000000000000000        0x0 build/arbero/engine.o
+ .debug_macro   0x0000000000000000      0xaa8 build/arbero/engine.o
+ .debug_macro   0x0000000000000000       0x22 build/arbero/engine.o
+ .debug_macro   0x0000000000000000       0x58 build/arbero/engine.o
+ .debug_macro   0x0000000000000000       0x18 build/arbero/engine.o
+ .debug_macro   0x0000000000000000       0x94 build/arbero/engine.o
+ .debug_macro   0x0000000000000000       0x35 build/arbero/engine.o
+ .debug_macro   0x0000000000000000       0x34 build/arbero/engine.o
+ .debug_macro   0x0000000000000000       0x57 build/arbero/engine.o
+ .debug_macro   0x0000000000000000       0x58 build/arbero/engine.o
+ .debug_macro   0x0000000000000000       0x1f build/arbero/engine.o
+ .debug_macro   0x0000000000000000       0x43 build/arbero/engine.o
+ .debug_macro   0x0000000000000000       0x20 build/arbero/engine.o
+ .debug_macro   0x0000000000000000      0x18e build/arbero/engine.o
+ .debug_macro   0x0000000000000000      0x339 build/arbero/engine.o
+ .debug_macro   0x0000000000000000      0x1e1 build/arbero/engine.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .group         0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .text          0x0000000000000000        0x0 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .data          0x0000000000000000        0x0 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .bss           0x0000000000000000        0x0 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .text._malloc_r
+                0x0000000000000000        0xc build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .text._realloc_r
+                0x0000000000000000       0x10 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .text._free_r  0x0000000000000000       0x14 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000      0xaa8 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x22 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0xef build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x6a build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000      0x1df build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x18 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x35 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x34 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x16 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x58 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x1f build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x43 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x20 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000      0x18e build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000      0x339 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x16 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x29 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x28 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x16 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x35 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000       0x22 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000000000      0x1e1 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/main.o
+LOAD build/arbero/engine.o
+LOAD build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+START GROUP
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+END GROUP
+START GROUP
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /usr/local/playdate/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+END GROUP
+
+.text           0x0000000000000000      0x16f
+ *(.text)
+ *(.text.*)
+ .text.update   0x0000000000000000       0x5c build/main.o
+ *fill*         0x000000000000005c        0x4 
+ .text.eventHandler
+                0x0000000000000060       0xd4 build/main.o
+                0x0000000000000060                eventHandler
+ *fill*         0x0000000000000134        0xc 
+ .text.engineStart
+                0x0000000000000140        0x4 build/arbero/engine.o
+                0x0000000000000140                engineStart
+ *fill*         0x0000000000000144        0xc 
+ .text.eventHandlerShim
+                0x0000000000000150       0x1c build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+                0x0000000000000150                eventHandlerShim
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.eventHandler.str1.4
+                0x000000000000016c        0x3 build/main.o
+ *(.eh_frame*)
+
+.glue_7         0x0000000000000170        0x0
+ .glue_7        0x0000000000000170        0x0 linker stubs
+
+.glue_7t        0x0000000000000170        0x0
+ .glue_7t       0x0000000000000170        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000000170        0x0
+ .vfp11_veneer  0x0000000000000170        0x0 linker stubs
+
+.v4_bx          0x0000000000000170        0x0
+ .v4_bx         0x0000000000000170        0x0 linker stubs
+
+.iplt           0x0000000000000170        0x0
+ .iplt          0x0000000000000170        0x0 build/main.o
+
+.rel.dyn        0x0000000000000170        0x0
+ .rel.iplt      0x0000000000000170        0x0 build/main.o
+
+.data           0x000000000000016f        0x1
+                0x000000000000016f                __etext = .
+                0x000000000000016f                __data_start__ = .
+ *(vtable)
+ *(.data*)
+                0x0000000000000170                . = ALIGN (0x4)
+ *fill*         0x000000000000016f        0x1 
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+                0x0000000000000170                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = .)
+                0x0000000000000170                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000000000170                . = ALIGN (0x4)
+                0x0000000000000170                __data_end__ = .
+
+.igot.plt       0x0000000000000170        0x0
+ .igot.plt      0x0000000000000170        0x0 build/main.o
+
+.bss            0x0000000000000170       0x18
+                0x0000000000000170                . = ALIGN (0x4)
+                0x0000000000000170                __bss_start__ = .
+ *(.bss*)
+ .bss.deltaTimeMS
+                0x0000000000000170        0x4 build/main.o
+                0x0000000000000170                deltaTimeMS
+ .bss.lastFrame
+                0x0000000000000174        0x4 build/main.o
+                0x0000000000000174                lastFrame
+ .bss.pd        0x0000000000000178        0x4 build/main.o
+                0x0000000000000178                pd
+ .bss.screenBuffer
+                0x000000000000017c        0x4 build/main.o
+                0x000000000000017c                screenBuffer
+ .bss.screenBufferData
+                0x0000000000000180        0x4 build/main.o
+                0x0000000000000180                screenBufferData
+ .bss.pdrealloc
+                0x0000000000000184        0x4 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ *(COMMON)
+ *(COM)
+                0x0000000000000188                . = ALIGN (0x4)
+                0x0000000000000188                __bss_end__ = .
+
+/DISCARD/
+ *(.ARM.exidx)
+OUTPUT(build/pdex.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0xd7ca
+ .debug_info    0x0000000000000000     0x6768 build/main.o
+ .debug_info    0x0000000000006768      0xa73 build/arbero/engine.o
+ .debug_info    0x00000000000071db     0x65ef build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_abbrev   0x0000000000000000      0x90a
+ .debug_abbrev  0x0000000000000000      0x3ec build/main.o
+ .debug_abbrev  0x00000000000003ec      0x1dc build/arbero/engine.o
+ .debug_abbrev  0x00000000000005c8      0x342 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_loc      0x0000000000000000      0x54d
+ .debug_loc     0x0000000000000000      0x30d build/main.o
+ .debug_loc     0x000000000000030d       0x24 build/arbero/engine.o
+ .debug_loc     0x0000000000000331      0x21c build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_aranges  0x0000000000000000       0x88
+ .debug_aranges
+                0x0000000000000000       0x30 build/main.o
+ .debug_aranges
+                0x0000000000000030       0x20 build/arbero/engine.o
+ .debug_aranges
+                0x0000000000000050       0x38 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_ranges   0x0000000000000000       0xb0
+ .debug_ranges  0x0000000000000000       0x78 build/main.o
+ .debug_ranges  0x0000000000000078       0x10 build/arbero/engine.o
+ .debug_ranges  0x0000000000000088       0x28 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_macro    0x0000000000000000     0x2808
+ .debug_macro   0x0000000000000000      0x29f build/main.o
+ .debug_macro   0x000000000000029f      0xaa8 build/main.o
+ .debug_macro   0x0000000000000d47       0x22 build/main.o
+ .debug_macro   0x0000000000000d69       0x58 build/main.o
+ .debug_macro   0x0000000000000dc1       0x18 build/main.o
+ .debug_macro   0x0000000000000dd9       0x94 build/main.o
+ .debug_macro   0x0000000000000e6d       0x35 build/main.o
+ .debug_macro   0x0000000000000ea2       0x34 build/main.o
+ .debug_macro   0x0000000000000ed6       0x16 build/main.o
+ .debug_macro   0x0000000000000eec       0x57 build/main.o
+ .debug_macro   0x0000000000000f43       0x97 build/main.o
+ .debug_macro   0x0000000000000fda      0x339 build/main.o
+ .debug_macro   0x0000000000001313       0xfd build/main.o
+ .debug_macro   0x0000000000001410       0x10 build/main.o
+ .debug_macro   0x0000000000001420       0x58 build/main.o
+ .debug_macro   0x0000000000001478       0x1f build/main.o
+ .debug_macro   0x0000000000001497       0x43 build/main.o
+ .debug_macro   0x00000000000014da       0x20 build/main.o
+ .debug_macro   0x00000000000014fa      0x18e build/main.o
+ .debug_macro   0x0000000000001688       0x10 build/main.o
+ .debug_macro   0x0000000000001698       0x6a build/main.o
+ .debug_macro   0x0000000000001702       0x1c build/main.o
+ .debug_macro   0x000000000000171e       0x52 build/main.o
+ .debug_macro   0x0000000000001770       0x40 build/main.o
+ .debug_macro   0x00000000000017b0       0x10 build/main.o
+ .debug_macro   0x00000000000017c0       0x40 build/main.o
+ .debug_macro   0x0000000000001800       0xd7 build/main.o
+ .debug_macro   0x00000000000018d7       0x1c build/main.o
+ .debug_macro   0x00000000000018f3       0x3d build/main.o
+ .debug_macro   0x0000000000001930       0x16 build/main.o
+ .debug_macro   0x0000000000001946      0x16f build/main.o
+ .debug_macro   0x0000000000001ab5       0x16 build/main.o
+ .debug_macro   0x0000000000001acb       0x35 build/main.o
+ .debug_macro   0x0000000000001b00       0x16 build/main.o
+ .debug_macro   0x0000000000001b16       0x29 build/main.o
+ .debug_macro   0x0000000000001b3f      0x1e1 build/main.o
+ .debug_macro   0x0000000000001d20       0xef build/main.o
+ .debug_macro   0x0000000000001e0f      0x1df build/main.o
+ .debug_macro   0x0000000000001fee       0x28 build/main.o
+ .debug_macro   0x0000000000002016       0x4c build/main.o
+ .debug_macro   0x0000000000002062       0x16 build/main.o
+ .debug_macro   0x0000000000002078       0x22 build/main.o
+ .debug_macro   0x000000000000209a       0xdf build/arbero/engine.o
+ .debug_macro   0x0000000000002179      0x174 build/arbero/engine.o
+ .debug_macro   0x00000000000022ed      0x1cf build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x00000000000024bc       0x8e build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x000000000000254a       0x51 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x000000000000259b       0x5e build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x00000000000025f9      0x10e build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000002707       0x8d build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x0000000000002794       0x58 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+ .debug_macro   0x00000000000027ec       0x1c build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_line     0x0000000000000000      0xda7
+ .debug_line    0x0000000000000000      0x6ab build/main.o
+ .debug_line    0x00000000000006ab      0x251 build/arbero/engine.o
+ .debug_line    0x00000000000008fc      0x4ab build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_str      0x0000000000000000     0xb057
+ .debug_str     0x0000000000000000     0xafc7 build/main.o
+                                       0xb485 (size before relaxing)
+ .debug_str     0x000000000000afc7       0x10 build/arbero/engine.o
+                                       0x69b4 (size before relaxing)
+ .debug_str     0x000000000000afd7       0x80 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+                                       0xa26e (size before relaxing)
+
+.comment        0x0000000000000000       0x79
+ .comment       0x0000000000000000       0x79 build/main.o
+                                         0x7a (size before relaxing)
+ .comment       0x0000000000000079       0x7a build/arbero/engine.o
+ .comment       0x0000000000000079       0x7a build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.ARM.attributes
+                0x0000000000000000       0x34
+ .ARM.attributes
+                0x0000000000000000       0x34 build/main.o
+ .ARM.attributes
+                0x0000000000000034       0x34 build/arbero/engine.o
+ .ARM.attributes
+                0x0000000000000068       0x34 build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+.debug_frame    0x0000000000000000      0x10c
+ .debug_frame   0x0000000000000000       0x90 build/main.o
+ .debug_frame   0x0000000000000090       0x20 build/arbero/engine.o
+ .debug_frame   0x00000000000000b0       0x5c build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+
+Cross Reference Table
+
+Symbol                                            File
+_free_r                                           build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+_malloc_r                                         build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+_realloc_r                                        build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+deltaTimeMS                                       build/main.o
+drawPixel                                         build/main.o
+engineStart                                       build/arbero/engine.o
+                                                  build/main.o
+eventHandler                                      build/main.o
+                                                  build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+eventHandlerShim                                  build//Users/pablomac/Developer/PlaydateSDK/C_API/buildsupport/setup.o
+lastFrame                                         build/main.o
+mtx17c                                            build/main.o
+mtx9c                                             build/main.o
+pd                                                build/main.o
+screenBuffer                                      build/main.o
+screenBufferData                                  build/main.o
